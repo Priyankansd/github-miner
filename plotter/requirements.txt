@@ -1,0 +1,4 @@
+couchdb
+matplotlib
+plotly
+pandas
