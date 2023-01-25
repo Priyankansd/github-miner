@@ -1,4 +1,0 @@
-couchdb
-matplotlib
-plotly
-pandas
